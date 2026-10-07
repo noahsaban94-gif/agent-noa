@@ -1,0 +1,1035 @@
+[
+  {
+    "name": "לי-רן יזום והשקעות (לירן / מוצקין)",
+    "customerNumber": "612108",
+    "aliases": [
+      "לי-רן",
+      "לירן",
+      "מוצקין",
+      "מוצקין 22",
+      "לירן מוצקין",
+      "לי-רן יזום והשקעות (לירן / מוצקין)"
+    ],
+    "contactPerson": "יהודה כהן",
+    "phones": [
+      "0505669924",
+      "0503322114",
+      "0502211445"
+    ],
+    "defaultSite": "מוצקין 22, רעננה",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת (סל כבד) / איסוזו",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול בלות",
+      "מלט אפור",
+      "פלציב 6 מ\"מ",
+      "קלקר F15",
+      "מטר ובוקסה"
+    ],
+    "siteNotes": "אתר פעיל, עבודה זהירה מכבלי חשמל, פריקה לחצר פנימית"
+  },
+  {
+    "name": "מידן לירן (אוסטושינסקי)",
+    "customerNumber": "613431",
+    "aliases": [
+      "מידן לירן",
+      "אוסטושינסקי",
+      "מידן",
+      "מירון",
+      "אוסטושינסקי 5",
+      "מידן לירן (אוסטושינסקי)"
+    ],
+    "contactPerson": "מירון",
+    "phones": [
+      "0546969051",
+      "0504455667"
+    ],
+    "defaultSite": "אוסטושינסקי 5, כפר סבא",
+    "zone": "השרון",
+    "preferredVehicle": "איסוזו פריקה ידנית (עלי) / מנוף קל",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט אפור",
+      "חול",
+      "בלוקים"
+    ],
+    "siteNotes": "רחוב צר, פריקה ישירה לתוך שטח האתר (10 דק' איסוזו)"
+  },
+  {
+    "name": "שלום בוקטוס",
+    "customerNumber": "602568",
+    "aliases": [
+      "בוקטוס",
+      "שלום בוקטוס",
+      "עמית בוקטוס",
+      "הנרייטה סולד",
+      "הנרייטה",
+      "רועי",
+      "הנרייטה סולד 20"
+    ],
+    "contactPerson": "רועי / עמית",
+    "phones": [
+      "0506707779",
+      "0544493503"
+    ],
+    "defaultSite": "הנרייטה סולד 20, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "טיח ממ\"ד 25 ק\"ג",
+      "טיח גבס MP75",
+      "חול בלה",
+      "טיט",
+      "מלט"
+    ],
+    "siteNotes": "אתר מגורים בהוד השרון, פריקה בחניה/מדרכה"
+  },
+  {
+    "name": "זבולון-עדירן",
+    "customerNumber": "612603",
+    "aliases": [
+      "זבולון",
+      "עדירן",
+      "טארק זבולון",
+      "דניאל זבולון",
+      "ביל\"ו",
+      "בילו",
+      "זבולון-עדירן",
+      "ביל\"ו 58"
+    ],
+    "contactPerson": "מוחמד אכבריה / אבו נאייף",
+    "phones": [
+      "0525062750",
+      "0538224169"
+    ],
+    "defaultSite": "ביל\"ו 58, תל אביב",
+    "zone": "תל אביב וגוש דן",
+    "preferredVehicle": "מנוף חכמת (משקל כבד)",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "סומסום בלות",
+      "סיקה 107 לבן",
+      "דבקים",
+      "חמרה"
+    ],
+    "siteNotes": "אתר ביל\"ו ת\"א, פריקה בשעות הבוקר/צהריים בלבד"
+  },
+  {
+    "name": "ד.ניב שיפוצים (ב\"ס חינוך מיוחד)",
+    "customerNumber": "604368",
+    "aliases": [
+      "ד.ניב",
+      "ד ניב",
+      "ניב",
+      "חינוך מיוחד",
+      "מבנה משולב 305",
+      "ד.ניב שיפוצים (ב\"ס חינוך מיוחד)",
+      "הבנות 16"
+    ],
+    "contactPerson": "עומר / יוסי",
+    "phones": [
+      "0542108810",
+      "0537684061"
+    ],
+    "defaultSite": "הבנות 16, הוד השרון (בית ספר חינוך מיוחד)",
+    "zone": "השרון",
+    "preferredVehicle": "איסוזו חלוקה עלי / מנוף",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "לוחות גבס (ירוק",
+      "כחול)",
+      "רוקבונד",
+      "קלסימו",
+      "פרופילים"
+    ],
+    "siteNotes": "פריקה בשעות שאין תלמידים, תיאום מראש מול עומר"
+  },
+  {
+    "name": "חברת הכל מבראשית (טל ארביב)",
+    "customerNumber": "604380",
+    "aliases": [
+      "הכל מבראשית",
+      "טל ארביב",
+      "ארביב",
+      "חברת הכל מבראשית (טל ארביב)",
+      "שער 14"
+    ],
+    "contactPerson": "טל ארביב",
+    "phones": [
+      "0525689416"
+    ],
+    "defaultSite": "שער 14, אוניברסיטת תל אביב",
+    "zone": "תל אביב",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "טיט מוכן",
+      "מלט",
+      "בלוקים",
+      "חול"
+    ],
+    "siteNotes": "כניסה דרך שער 14 בלבד, אישור ביטחון מראש"
+  },
+  {
+    "name": "עמית ושרית סולברג",
+    "customerNumber": "616161",
+    "aliases": [
+      "עמית סולברג",
+      "סולברג",
+      "איתי מוזר",
+      "איתי",
+      "עמית ושרית סולברג",
+      "פעמונית 47"
+    ],
+    "contactPerson": "איתי",
+    "phones": [
+      "0548373707"
+    ],
+    "defaultSite": "פעמונית 47, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול בלה",
+      "מלט",
+      "טיט",
+      "מוצרי גמר"
+    ],
+    "siteNotes": "פריקה שקטה, רחוב מגורים"
+  },
+  {
+    "name": "בונק אסף",
+    "customerNumber": "632237",
+    "aliases": [
+      "בונק",
+      "אסף בונק",
+      "בונק אסף",
+      "הסחלב 8"
+    ],
+    "contactPerson": "אסף",
+    "phones": [
+      "0527445777"
+    ],
+    "defaultSite": "הסחלב 8, רעות",
+    "zone": "מודיעין והסביבה",
+    "preferredVehicle": "איסוזו עלי / מנוף",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "דבקים",
+      "חומרי מליטה"
+    ],
+    "siteNotes": "תיאום יום מראש"
+  },
+  {
+    "name": "דודי אוזנה",
+    "customerNumber": "602100",
+    "aliases": [
+      "דודי אוזנה",
+      "אוזנה",
+      "דודי",
+      "דודי שטיכמוס",
+      "הוד השרון והסביבה"
+    ],
+    "contactPerson": "דודי",
+    "phones": [
+      "0524404222"
+    ],
+    "defaultSite": "הוד השרון והסביבה",
+    "zone": "השרון",
+    "preferredVehicle": "איסוזו / מנוף",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "חול",
+      "בלוקים",
+      "כלי עבודה"
+    ],
+    "siteNotes": "קבלן ותיק באזור הוד השרון"
+  },
+  {
+    "name": "נתנאל מגד",
+    "customerNumber": "614132",
+    "aliases": [
+      "נתנאל מגד",
+      "מגד שיפוצים",
+      "עוגב 15"
+    ],
+    "contactPerson": "נתנאל מגד",
+    "phones": [
+      "0549644335"
+    ],
+    "defaultSite": "עוגב 15, קרני שומרון",
+    "zone": "שומרון",
+    "preferredVehicle": "מנוף חכמת (קו שומרון)",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "טיט שק גדול",
+      "סומסום",
+      "מלט",
+      "דבק 116"
+    ],
+    "siteNotes": "תיאום יציאה מוקדם 06:30, סוכן ריימונד ביטון"
+  },
+  {
+    "name": "ערוגת הבשם",
+    "customerNumber": "616088",
+    "aliases": [
+      "ערוגת הבשם",
+      "באר גנים 78"
+    ],
+    "contactPerson": "ערוגת הבשם",
+    "phones": [
+      "0500000000"
+    ],
+    "defaultSite": "באר גנים 78, אבן יהודה",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול בלה",
+      "סומסום בלה",
+      "מלט"
+    ],
+    "siteNotes": "אתר פתוח"
+  },
+  {
+    "name": "א.ערן אזולאי",
+    "customerNumber": "603271",
+    "aliases": [
+      "אזולאי",
+      "ערן אזולאי",
+      "א.ערן אזולאי",
+      "נח 3"
+    ],
+    "contactPerson": "ערן",
+    "phones": [
+      "0500000000"
+    ],
+    "defaultSite": "נח 3, תל אביב",
+    "zone": "תל אביב",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "טיח תרמי 400",
+      "חול בלה",
+      "מלט אפור",
+      "סיקה לסטיק"
+    ],
+    "siteNotes": "רחוב צר בתל אביב"
+  },
+  {
+    "name": "טל שחר כאשי",
+    "customerNumber": "607509",
+    "aliases": [
+      "כאשי",
+      "טל שחר",
+      "טל שחר כאשי",
+      "חשמונאים 5"
+    ],
+    "contactPerson": "טל שחר",
+    "phones": [
+      "0500000000"
+    ],
+    "defaultSite": "חשמונאים 5, פתח תקווה",
+    "zone": "מרכז",
+    "preferredVehicle": "מנוף חכמת / איסוזו",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "ניצבים",
+      "מסלולים",
+      "ריצופית 181",
+      "מלט",
+      "פלסטומר"
+    ],
+    "siteNotes": "פריקה בחצר"
+  },
+  {
+    "name": "נועם ענבר גינון",
+    "customerNumber": "602866",
+    "aliases": [
+      "נועם ענבר",
+      "גינון ענבר",
+      "נועם ענבר גינון",
+      "מחתרות 1"
+    ],
+    "contactPerson": "נועם",
+    "phones": [
+      "0500000000"
+    ],
+    "defaultSite": "מחתרות 1, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "סומסום בלה",
+      "חמרה בלה",
+      "אדמת גננות"
+    ],
+    "siteNotes": "גינון ופיתוח"
+  },
+  {
+    "name": "אריק הולץ",
+    "customerNumber": "601479",
+    "aliases": [
+      "אריק הולץ",
+      "הולץ",
+      "שושנה דמארי 18"
+    ],
+    "contactPerson": "אריק",
+    "phones": [
+      "0500000000"
+    ],
+    "defaultSite": "שושנה דמארי 18, ראש העין",
+    "zone": "מרכז",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט אפור",
+      "טיט",
+      "סומסום",
+      "פינות טיח"
+    ],
+    "siteNotes": "קבלן שלד וטיח"
+  },
+  {
+    "name": "אחמד אבו חדר",
+    "customerNumber": "632200",
+    "aliases": [
+      "אחמד אבו חדר",
+      "שחף 9"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0508861080"
+    ],
+    "defaultSite": "שחף 9, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול",
+      "סומסום",
+      "מלט"
+    ],
+    "siteNotes": "גישה רחבה ללא עיכובים, פריקת מנוף תקינה בחצר"
+  },
+  {
+    "name": "ד.ניב / בי\"ס יגאל אלון",
+    "customerNumber": "632091",
+    "aliases": [
+      "ד.ניב / בי\"ס יגאל אלון",
+      "משאבים 45"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0502211445"
+    ],
+    "defaultSite": "משאבים 45, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף / איסוזו",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "גבס",
+      "פרופילים",
+      "צמנט"
+    ],
+    "siteNotes": "פריקה מרוכזת ליד המכולה"
+  },
+  {
+    "name": "בן-גיא סלומון השקעות בע\"מ",
+    "customerNumber": "920535",
+    "aliases": [
+      "בן-גיא סלומון השקעות בע\"מ",
+      "שרת 59"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0505544332"
+    ],
+    "defaultSite": "שרת 59, רמות השבים",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול",
+      "מלט",
+      "אגרגטים"
+    ],
+    "siteNotes": "משק פתוח, פריקה מהירה וישירה על הקרקע"
+  },
+  {
+    "name": "עופר כץ",
+    "customerNumber": "616166",
+    "aliases": [
+      "עופר כץ",
+      "בית העם 3"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0526655443"
+    ],
+    "defaultSite": "בית העם 3, רמות השבים",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת / איסוזו",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "דבקים",
+      "טיט"
+    ],
+    "siteNotes": "גישה חלקה, חתימה מהירה בשטח"
+  },
+  {
+    "name": "לירן / ביל\"ו",
+    "customerNumber": "612100",
+    "aliases": [
+      "לירן / ביל\"ו",
+      "ביל\"ו 53"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0502525253"
+    ],
+    "defaultSite": "ביל\"ו 53, רעננה",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חמרה בלה",
+      "חול",
+      "מלט"
+    ],
+    "siteNotes": "אתר צפוף, פריקה בשטח המדרכה באישור מנהל עבודה"
+  },
+  {
+    "name": "ליאת אסייג יהושוע",
+    "customerNumber": "632216",
+    "aliases": [
+      "ליאת אסייג יהושוע",
+      "ציפמן 50"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0548899001"
+    ],
+    "defaultSite": "ציפמן 50, רעננה",
+    "zone": "השרון",
+    "preferredVehicle": "איסוזו עלי",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "דבקים",
+      "רובה"
+    ],
+    "siteNotes": "פריקה מהירה ללא עיכובים"
+  },
+  {
+    "name": "א.ש. בלום נדל\"ן",
+    "customerNumber": "601939",
+    "aliases": [
+      "א.ש. בלום נדל\"ן",
+      "מרכז שרונה"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0521122334"
+    ],
+    "defaultSite": "מרכז שרונה, כפר סבא",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "גבס",
+      "לוחות",
+      "בידוד"
+    ],
+    "siteNotes": "מרכז מסחרי, נדרש תיאום פריקה עם השומר במקום"
+  },
+  {
+    "name": "גולן שיפוצים",
+    "customerNumber": "632088",
+    "aliases": [
+      "גולן שיפוצים",
+      "משה וילנסקי 15"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0542233445"
+    ],
+    "defaultSite": "משה וילנסקי 15, כפר סבא",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "חול",
+      "טיח"
+    ],
+    "siteNotes": "עיכוב קבוע בגלל חניית רכבים פרטיים בחזית הבניין"
+  },
+  {
+    "name": "אורניל / אבי לוי גור",
+    "customerNumber": "601992",
+    "aliases": [
+      "אורניל / אבי לוי גור",
+      "סטרומה 4"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0509988776"
+    ],
+    "defaultSite": "סטרומה 4, הרצליה (וגם לוחמי גליפולי 8, אביחיל)",
+    "zone": "מרכז",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "חול",
+      "טיט"
+    ],
+    "siteNotes": "רחוב צר, נדרש תמרון זהיר עם משאית 12 טון"
+  },
+  {
+    "name": "ויקטור דיין",
+    "customerNumber": "632024",
+    "aliases": [
+      "ויקטור דיין",
+      "ויתקין 20"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0546677889"
+    ],
+    "defaultSite": "ויתקין 20, רמת השרון",
+    "zone": "מרכז",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול",
+      "סומסום",
+      "מלט"
+    ],
+    "siteNotes": "פריקה בחצר אחורית עם זרוע מנוף מלאה"
+  },
+  {
+    "name": "בן ענבר (ליידי דיויס)",
+    "customerNumber": "602497",
+    "aliases": [
+      "בן ענבר (ליידי דיויס)",
+      "קהילת קייב 17"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0507766554"
+    ],
+    "defaultSite": "קהילת קייב 17, תל אביב",
+    "zone": "תל אביב",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול",
+      "מלט",
+      "טיט"
+    ],
+    "siteNotes": "עיכוב מתועד של 45 דק' בגלל פריקה מורכבת"
+  },
+  {
+    "name": "גיא פריגת",
+    "customerNumber": "603118",
+    "aliases": [
+      "גיא פריגת",
+      "שדרות בן ציון / בן צבי 20"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0528877665"
+    ],
+    "defaultSite": "שדרות בן ציון / בן צבי 20, תל אביב",
+    "zone": "תל אביב",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול בלה",
+      "מלט",
+      "דבקים"
+    ],
+    "siteNotes": "שדרות רחבות, פריקה מהירה על שטח טעינה"
+  },
+  {
+    "name": "אילתי אברהם",
+    "customerNumber": "614063",
+    "aliases": [
+      "אילתי אברהם",
+      "מגדל הלבנון 14"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0543344556"
+    ],
+    "defaultSite": "מגדל הלבנון 14, מודיעין",
+    "zone": "מרכז",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חומרי שלד ומליטה"
+    ],
+    "siteNotes": "נסיעה בכביש 443, פריקה מסודרת"
+  },
+  {
+    "name": "נ.ע. גרין פרויקטים בע\"מ",
+    "customerNumber": "614063",
+    "aliases": [
+      "נ.ע. גרין פרויקטים בע\"מ",
+      "הטווס 3"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0503344112"
+    ],
+    "defaultSite": "הטווס 3, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חומרי שלד",
+      "מלט"
+    ],
+    "siteNotes": "אזור תעשייה נווה נאמן, פריקה מרווחת"
+  },
+  {
+    "name": "השוקדים-כללי (ירון)",
+    "customerNumber": "605070",
+    "aliases": [
+      "השוקדים-כללי (ירון)",
+      "עלי זהב"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0508860896"
+    ],
+    "defaultSite": "עלי זהב",
+    "zone": "שומרון",
+    "preferredVehicle": "מנוף חכמת (שומרון)",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול",
+      "מלט",
+      "אגרגטים"
+    ],
+    "siteNotes": "הגעה דרך חוצה שומרון, עיכובי כניסה בשער"
+  },
+  {
+    "name": "נקש את נעמן - צור יגאל",
+    "customerNumber": "632145",
+    "aliases": [
+      "נקש את נעמן - צור יגאל",
+      "זוויתן 1"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0528877665"
+    ],
+    "defaultSite": "זוויתן 1, צור יגאל",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "דבקים",
+      "חול"
+    ],
+    "siteNotes": "רחוב שקט בצור יגאל, פריקה חלקה"
+  },
+  {
+    "name": "קבוצת חסון",
+    "customerNumber": "519977",
+    "aliases": [
+      "קבוצת חסון",
+      "החשמונאים 1"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0507813361"
+    ],
+    "defaultSite": "החשמונאים 1, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חומרי שלד",
+      "מלט",
+      "חול"
+    ],
+    "siteNotes": "נווה נאמן ב', פריקה מול מגרש הכדורגל"
+  },
+  {
+    "name": "בזלת מזר בע\"מ",
+    "customerNumber": "602115",
+    "aliases": [
+      "בזלת מזר בע\"מ",
+      "פישמן מימון 7"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0543322110"
+    ],
+    "defaultSite": "פישמן מימון 7, תל אביב",
+    "zone": "תל אביב",
+    "preferredVehicle": "מנוף חכמת / איסוזו",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חומרי גמר",
+      "דבקים",
+      "טיח"
+    ],
+    "siteNotes": "רחוב פנימי בצפון הישן, עבודה זהירה"
+  },
+  {
+    "name": "קדם גלעד / מזל דלי",
+    "customerNumber": "632052",
+    "aliases": [
+      "קדם גלעד / מזל דלי",
+      "מזל דלי 1"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0547766554"
+    ],
+    "defaultSite": "מזל דלי 1, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול",
+      "סומסום",
+      "מלט",
+      "טיט"
+    ],
+    "siteNotes": "שכונת 1200 הוד השרון, אתר נגיש ופתוח"
+  },
+  {
+    "name": "בהר אהוד-כללי",
+    "customerNumber": "520117",
+    "aliases": [
+      "בהר אהוד-כללי",
+      "הורד 29"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0523344556"
+    ],
+    "defaultSite": "הורד 29, אלישמע",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת / איסוזו",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "חול",
+      "חמרה"
+    ],
+    "siteNotes": "מושב אלישמע, פריקה ישירה בחצר הבית"
+  },
+  {
+    "name": "בית חלומותי / בני ברק",
+    "customerNumber": "602566",
+    "aliases": [
+      "בית חלומותי / בני ברק",
+      "ירקון 8"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0509988221"
+    ],
+    "defaultSite": "ירקון 8, בני ברק",
+    "zone": "מרכז",
+    "preferredVehicle": "איסוזו עלי / מנוף",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "גבס",
+      "מלט",
+      "דבקים"
+    ],
+    "siteNotes": "מתחם BBC בני ברק, גישה מותאמת לחלוקה"
+  },
+  {
+    "name": "גוטרמן יצחק",
+    "customerNumber": "603104",
+    "aliases": [
+      "גוטרמן יצחק",
+      "שמעון הצדיק 25"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0541122998"
+    ],
+    "defaultSite": "שמעון הצדיק 25, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "חול",
+      "טיט"
+    ],
+    "siteNotes": "שכונת מגורים ותיקה, גישה נוחה"
+  },
+  {
+    "name": "אלנבי על הים",
+    "customerNumber": "501009",
+    "aliases": [
+      "אלנבי על הים",
+      "שמוליק סגל 4",
+      "שמוליק סגל",
+      "סגל",
+      "אלנבי"
+    ],
+    "contactPerson": "יוסי / מנהל אתר",
+    "phones": [
+      "0546677112"
+    ],
+    "defaultSite": "שמוליק סגל 4, תל אביב",
+    "zone": "תל אביב",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "דבקים",
+      "מלט",
+      "טיח"
+    ],
+    "siteNotes": "מתחם צפון ת\"א, פריקה מהירה"
+  },
+  {
+    "name": "גל בן דוד",
+    "customerNumber": "603275",
+    "aliases": [
+      "גל בן דוד",
+      "נטף 14"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0524455112"
+    ],
+    "defaultSite": "נטף 14, רמת השרון",
+    "zone": "מרכז",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "מלט",
+      "חול",
+      "בלוקים"
+    ],
+    "siteNotes": "נווה מגן רמה\"ש, פריקת מנוף לגובה"
+  },
+  {
+    "name": "קובי פרופילים ונגישות בע\"מ",
+    "customerNumber": "619043",
+    "aliases": [
+      "קובי פרופילים ונגישות בע\"מ",
+      "מתן"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0542233112"
+    ],
+    "defaultSite": "מתן",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף / איסוזו",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "פרופילים",
+      "לוחות",
+      "מלט"
+    ],
+    "siteNotes": "יישוב מתן, אתר פיתוח נגיש"
+  },
+  {
+    "name": "אורן ישראלי",
+    "customerNumber": "632097",
+    "aliases": [
+      "אורן ישראלי",
+      "המייסדים 17"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0521122445"
+    ],
+    "defaultSite": "המייסדים 17, רמות השבים",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חול",
+      "סומסום",
+      "מלט"
+    ],
+    "siteNotes": "פריקת מנוף בתוך חצר המשק"
+  },
+  {
+    "name": "נישה אדריכלות נוף",
+    "customerNumber": "614149",
+    "aliases": [
+      "נישה אדריכלות נוף",
+      "ישעיהו 8"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0508899112"
+    ],
+    "defaultSite": "ישעיהו 8, הוד השרון",
+    "zone": "השרון",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "סומסום",
+      "חמרה",
+      "טוף"
+    ],
+    "siteNotes": "רחוב שקט, פריקה חלקה על המדרכה"
+  },
+  {
+    "name": "זבולון-עדירן / הופמן",
+    "customerNumber": "607145",
+    "aliases": [
+      "זבולון-עדירן / הופמן",
+      "החורש 21"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0506620013"
+    ],
+    "defaultSite": "החורש 21, כפר שמריהו",
+    "zone": "מרכז",
+    "preferredVehicle": "מנוף חכמת",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "סומסום בלות",
+      "סיקה 107"
+    ],
+    "siteNotes": "וילה יוקרתית, פריקה זהירה בשטח פנימי"
+  },
+  {
+    "name": "אסף אמיתי",
+    "customerNumber": "632254",
+    "aliases": [
+      "אסף אמיתי",
+      "הנדיב 51"
+    ],
+    "contactPerson": "",
+    "phones": [
+      "0502174847"
+    ],
+    "defaultSite": "הנדיב 51, הרצליה פיתוח",
+    "zone": "מרכז",
+    "preferredVehicle": "איסוזו / מנוף קל",
+    "typicalUnloadMin": 25,
+    "commonBasket": [
+      "חומרי גמר",
+      "דבקים",
+      "מלט"
+    ],
+    "siteNotes": "הרצליה פיתוח, גישה נוחה"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "נועה · מרכז הסידור",
+      "hasCanvas": false,
+      "bodyTextLen": 2114,
+      "bodyTextHash": "beb0daea458816c079df359030d052801a14dc51204e5e2e296011c8f163658a",
+      "bodyTextPrefix": "נ נועה מרכז הסידור · ח. סבן חומרי בניין יום ד׳, 7.10, 07:19 סדרנ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "נועה · מרכז הסידור",
+      "hasCanvas": false,
+      "bodyTextLen": 2008,
+      "bodyTextHash": "75e567893abdc97435439bdcb111529c4dc5d33e35e6f82952a0f3a87a30b0c7",
+      "bodyTextPrefix": "נ נועה מרכז הסידור · ח. סבן חומרי בניין ח. סבן · 7.10.2026 לוח ה",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,642 @@
+[
+  {
+    "customerName": "אורניל / אבי לוי",
+    "customerNumber": "632200",
+    "address": "לוחמי גליפולי 8",
+    "city": "אביחיל",
+    "distanceKm": 1.5,
+    "craneUnloadMin": 33,
+    "flatbedUnloadMin": 25,
+    "ituranNotes": "מאומת איתוראן: מנוף 33 דק' | איסוזו 25 דק' (משטחים)"
+  },
+  {
+    "customerName": "לירן / מוצקין",
+    "customerNumber": "604368",
+    "address": "מוצקין 22",
+    "city": "רעננה",
+    "distanceKm": 1.7,
+    "craneUnloadMin": 30,
+    "flatbedUnloadMin": 12,
+    "ituranNotes": "מאומת איתוראן: מנוף 30 דק' | איסוזו 12 דק' ידני"
+  },
+  {
+    "customerName": "לירן / ביל\"ו",
+    "customerNumber": "632091",
+    "address": "ביל\"ו 53",
+    "city": "רעננה",
+    "distanceKm": 2.1,
+    "craneUnloadMin": 30,
+    "flatbedUnloadMin": 9,
+    "ituranNotes": "מאומת איתוראן: מנוף 30 דק' | איסוזו 9 דק' מהיר"
+  },
+  {
+    "customerName": "אורניל / אבי לוי גור",
+    "customerNumber": "602866",
+    "address": "סטרומה 4",
+    "city": "הרצליה",
+    "distanceKm": 2.5,
+    "craneUnloadMin": 41,
+    "flatbedUnloadMin": 19,
+    "ituranNotes": "מאומת איתוראן: רחוב צר, פריקה מורכבת"
+  },
+  {
+    "customerName": "עופר כץ",
+    "customerNumber": "632225",
+    "address": "בית העם 3",
+    "city": "רמות השבים",
+    "distanceKm": 1.2,
+    "craneUnloadMin": 19,
+    "flatbedUnloadMin": 12,
+    "ituranNotes": "מאומת איתוראן: משק כפרי"
+  },
+  {
+    "customerName": "אורן ישראלי",
+    "customerNumber": "920535",
+    "address": "המייסדים 17",
+    "city": "רמות השבים",
+    "distanceKm": 1.8,
+    "craneUnloadMin": 17,
+    "flatbedUnloadMin": 14,
+    "ituranNotes": "מאומת איתוראן: דרך השולטן"
+  },
+  {
+    "customerName": "זבולון-עדירן / הופמן",
+    "customerNumber": "616166",
+    "address": "החורש 21",
+    "city": "כפר שמריהו",
+    "distanceKm": 1.8,
+    "craneUnloadMin": 31,
+    "flatbedUnloadMin": 14,
+    "ituranNotes": "מאומת איתוראן: גישה נוחה"
+  },
+  {
+    "customerName": "קבוצת חסון",
+    "customerNumber": "612108",
+    "address": "החשמונאים 1",
+    "city": "הוד השרון",
+    "distanceKm": 7.6,
+    "craneUnloadMin": 19,
+    "flatbedUnloadMin": 7,
+    "ituranNotes": "מאומת איתוראן: פריקה מהירה"
+  },
+  {
+    "customerName": "קדם גלעד",
+    "customerNumber": "612100",
+    "address": "מזל דלי 1",
+    "city": "הוד השרון",
+    "distanceKm": 7.5,
+    "craneUnloadMin": 22,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מאומת איתוראן: גלגל המזלות"
+  },
+  {
+    "customerName": "יונתן ועידן הנדסה",
+    "customerNumber": "632216",
+    "address": "מזל דגים 13",
+    "city": "הוד השרון",
+    "distanceKm": 8.2,
+    "craneUnloadMin": 35,
+    "flatbedUnloadMin": 13,
+    "ituranNotes": "מאומת איתוראן: רחוב שקט"
+  },
+  {
+    "customerName": "מנחם מוסקביץ",
+    "customerNumber": "601939",
+    "address": "הכוהנים 13",
+    "city": "הוד השרון",
+    "distanceKm": 8.5,
+    "craneUnloadMin": 14,
+    "flatbedUnloadMin": 7,
+    "ituranNotes": "מאומת איתוראן: פריקה מהירה"
+  },
+  {
+    "customerName": "ד.ניב / חינוך מיוחד",
+    "customerNumber": "613431",
+    "address": "הבנות 16",
+    "city": "הוד השרון",
+    "distanceKm": 8,
+    "craneUnloadMin": 24,
+    "flatbedUnloadMin": 10,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "ד.ניב / יגאל אלון",
+    "customerNumber": "632088",
+    "address": "משאבים 45",
+    "city": "הוד השרון",
+    "distanceKm": 9.5,
+    "craneUnloadMin": 26,
+    "flatbedUnloadMin": 14,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "אבי גולן",
+    "customerNumber": "601992",
+    "address": "חוחית 8",
+    "city": "הוד השרון",
+    "distanceKm": 8.4,
+    "craneUnloadMin": 41,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מאומת איתוראן: נחל הדר"
+  },
+  {
+    "customerName": "אחמד אבו חדר",
+    "customerNumber": "602118",
+    "address": "שחף 9",
+    "city": "הוד השרון",
+    "distanceKm": 10.1,
+    "craneUnloadMin": 20,
+    "flatbedUnloadMin": 12,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "ליאור שרף שיווק",
+    "customerNumber": "602568",
+    "address": "שניר 17",
+    "city": "הוד השרון",
+    "distanceKm": 11.9,
+    "craneUnloadMin": 12,
+    "flatbedUnloadMin": 8,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "בהר אהוד-כללי",
+    "customerNumber": "632024",
+    "address": "הורד 29",
+    "city": "אלישמע",
+    "distanceKm": 13.4,
+    "craneUnloadMin": 21,
+    "flatbedUnloadMin": 14,
+    "ituranNotes": "מאומת איתוראן: משק פתוח"
+  },
+  {
+    "customerName": "ד.ניב / ספריה",
+    "customerNumber": "607509",
+    "address": "מכללת בית ברל 1",
+    "city": "בית ברל",
+    "distanceKm": 15.2,
+    "craneUnloadMin": 9,
+    "flatbedUnloadMin": 10,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "ערוגת הבשם",
+    "customerNumber": "603271",
+    "address": "באר גנים 78",
+    "city": "אבן יהודה",
+    "distanceKm": 19.1,
+    "craneUnloadMin": 14,
+    "flatbedUnloadMin": 16,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "ערוגת הבשם",
+    "customerNumber": "602497",
+    "address": "סמטת הנוריות 12",
+    "city": "גנות הדר",
+    "distanceKm": 18.5,
+    "craneUnloadMin": 24,
+    "flatbedUnloadMin": 35,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "אילתי אברהם",
+    "customerNumber": "603118",
+    "address": "מגדל הלבנון 14",
+    "city": "מודיעין",
+    "distanceKm": 23.2,
+    "craneUnloadMin": 36,
+    "flatbedUnloadMin": 20,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "מזרחי עוז",
+    "customerNumber": "616088",
+    "address": "פרישמן 45",
+    "city": "תל אביב",
+    "distanceKm": 17.1,
+    "craneUnloadMin": 29,
+    "flatbedUnloadMin": 25,
+    "ituranNotes": "מאומת איתוראן: מרכז תל אביב"
+  },
+  {
+    "customerName": "אלירן סיימון",
+    "customerNumber": "601992",
+    "address": "ויתקין 20",
+    "city": "רמת השרון",
+    "distanceKm": 30,
+    "craneUnloadMin": 41,
+    "flatbedUnloadMin": 20,
+    "ituranNotes": "מאומת איתוראן: פריקה כבדה"
+  },
+  {
+    "customerName": "בוקטוס שלום (אלי כהן)",
+    "customerNumber": "614063",
+    "address": "עזרא 52",
+    "city": "רמת השרון",
+    "distanceKm": 42.1,
+    "craneUnloadMin": 14,
+    "flatbedUnloadMin": 10,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "זבולון-עדירן / שיין",
+    "customerNumber": "605070",
+    "address": "השומר 14",
+    "city": "רעננה",
+    "distanceKm": 34.7,
+    "craneUnloadMin": 20,
+    "flatbedUnloadMin": 10,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "דודק שרון",
+    "customerNumber": "612090",
+    "address": "השלום 46",
+    "city": "רעננה",
+    "distanceKm": 10.8,
+    "craneUnloadMin": 24,
+    "flatbedUnloadMin": 14,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "מאריו הנדסה",
+    "customerNumber": "602866",
+    "address": "בר אילן 8",
+    "city": "רעננה",
+    "distanceKm": 3.5,
+    "craneUnloadMin": 21,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "לירן / אחוזה",
+    "customerNumber": "519205",
+    "address": "אחוזה 42",
+    "city": "רעננה",
+    "distanceKm": 19.5,
+    "craneUnloadMin": 43,
+    "flatbedUnloadMin": 20,
+    "ituranNotes": "מאומת איתוראן: ציר ראשי"
+  },
+  {
+    "customerName": "פנינית ומור בר",
+    "customerNumber": "601479",
+    "address": "איגוז 9",
+    "city": "בני ציון",
+    "distanceKm": 14.5,
+    "craneUnloadMin": 53,
+    "flatbedUnloadMin": 20,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "נקש את נעמן",
+    "customerNumber": "632145",
+    "address": "זוויתן 1",
+    "city": "צור יגאל",
+    "distanceKm": 16.2,
+    "craneUnloadMin": 86,
+    "flatbedUnloadMin": 45,
+    "ituranNotes": "מאומת איתוראן: פריקת ענק"
+  },
+  {
+    "customerName": "קבוצת חסון",
+    "customerNumber": "602568",
+    "address": "קיבוץ מגל",
+    "city": "מגל",
+    "distanceKm": 8.8,
+    "craneUnloadMin": 31,
+    "flatbedUnloadMin": 20,
+    "ituranNotes": "מאומת איתוראן: פריקת שטח"
+  },
+  {
+    "customerName": "מרכז רמת גן",
+    "customerNumber": "519977",
+    "address": "שדרות בן גוריון",
+    "city": "רמת גן",
+    "distanceKm": 2.2,
+    "craneUnloadMin": 30,
+    "flatbedUnloadMin": 20,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "א.ס. קדימה",
+    "customerNumber": "603118",
+    "address": "הפלמ\"ח 26",
+    "city": "קדימה צורן",
+    "distanceKm": 23.5,
+    "craneUnloadMin": 35,
+    "flatbedUnloadMin": 40,
+    "ituranNotes": "מאומת איתוראן: רחוב צר"
+  },
+  {
+    "customerName": "א.ש. בלום נדל\"ן",
+    "customerNumber": "602115",
+    "address": "מרכז שרונה",
+    "city": "כפר סבא",
+    "distanceKm": 22.8,
+    "craneUnloadMin": 31,
+    "flatbedUnloadMin": 20,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "מידן לירן",
+    "customerNumber": "604394",
+    "address": "אוסטושינסקי 5",
+    "city": "כפר סבא",
+    "distanceKm": 28.5,
+    "craneUnloadMin": 24,
+    "flatbedUnloadMin": 10,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "בן ענבר",
+    "customerNumber": "601980",
+    "address": "הצנחנים 2",
+    "city": "כפר מל\"ל",
+    "distanceKm": 8.9,
+    "craneUnloadMin": 41,
+    "flatbedUnloadMin": 25,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "צפון ישן",
+    "customerNumber": "632052",
+    "address": "נח 3",
+    "city": "תל אביב",
+    "distanceKm": 3.8,
+    "craneUnloadMin": 35,
+    "flatbedUnloadMin": 45,
+    "ituranNotes": "מאומת איתוראן: רחוב צפוף"
+  },
+  {
+    "customerName": "נאות אפקה",
+    "customerNumber": "632053",
+    "address": "קהילת קייב 17",
+    "city": "תל אביב",
+    "distanceKm": 3.6,
+    "craneUnloadMin": 45,
+    "flatbedUnloadMin": 12,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "עזרא",
+    "customerNumber": "601990",
+    "address": "שדרות ד בן ציון",
+    "city": "תל אביב",
+    "distanceKm": 8.1,
+    "craneUnloadMin": 21,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מאומת איתוראן"
+  },
+  {
+    "customerName": "ערוגת הבשם",
+    "customerNumber": "616088",
+    "address": "סמטת הנוריות 12, גנות הדר",
+    "city": "השרון",
+    "distanceKm": 15.2,
+    "craneUnloadMin": 24,
+    "flatbedUnloadMin": 35,
+    "ituranNotes": "מאומת איתוראן: מנוף 24 דק' | איסוזו 35 דק'"
+  },
+  {
+    "customerName": "ערוגת הבשם",
+    "customerNumber": "616088",
+    "address": "חטיבת גולני 1, רעננה",
+    "city": "השרון",
+    "distanceKm": 9.6,
+    "craneUnloadMin": 18,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "אתר גינון עירוני, חניה בצד הדרך."
+  },
+  {
+    "customerName": "בונק אסף",
+    "customerNumber": "632237",
+    "address": "ניסים אלוני 3, תל אביב",
+    "city": "תל אביב",
+    "distanceKm": 21,
+    "craneUnloadMin": 35,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מתחם פארק צמרת, כניסה דרך פריקה תת-קרקעית או ליווי שומר."
+  },
+  {
+    "customerName": "בונק אסף",
+    "customerNumber": "632238",
+    "address": "השרון 10, בית דגן",
+    "city": "מרכז",
+    "distanceKm": 24.2,
+    "craneUnloadMin": 22,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "כביש 412, אתר פתוח ללא בעיות גישה."
+  },
+  {
+    "customerName": "שטיכמוס / שיבת ציון",
+    "customerNumber": "602100",
+    "address": "שיבת ציון 12, הרצליה",
+    "city": "מרכז",
+    "distanceKm": 8.5,
+    "craneUnloadMin": 16,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מרכז הרצליה, פריקה מסודרת."
+  },
+  {
+    "customerName": "בהר אהוד-כללי",
+    "customerNumber": "520117",
+    "address": "הורד 29, אלישמע",
+    "city": "השרון",
+    "distanceKm": 6.5,
+    "craneUnloadMin": 21,
+    "flatbedUnloadMin": 14,
+    "ituranNotes": "מאומת איתוראן: מנוף 21 דק' | איסוזו 14 דק'"
+  },
+  {
+    "customerName": "בית חלומותי / בני ברק",
+    "customerNumber": "602566",
+    "address": "ירקון 8, בני ברק",
+    "city": "מרכז",
+    "distanceKm": 14.8,
+    "craneUnloadMin": 12,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מתחם BBC בני ברק, גישה מותאמת למשאיות חלוקה."
+  },
+  {
+    "customerName": "גוטרמן יצחק",
+    "customerNumber": "603104",
+    "address": "שמעון הצדיק 25, הוד השרון",
+    "city": "השרון",
+    "distanceKm": 2.8,
+    "craneUnloadMin": 15,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "שכונת מגורים ותיקה, גישה נוחה."
+  },
+  {
+    "customerName": "שבתאי גני",
+    "customerNumber": "603105",
+    "address": "ערבה 66, נווה ימין",
+    "city": "השרון",
+    "distanceKm": 9.2,
+    "craneUnloadMin": 30,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מושב נווה ימין, פריקה עם מנוף מעבר לגדר."
+  },
+  {
+    "customerName": "אביעד אדריכלות נוף",
+    "customerNumber": "601995",
+    "address": "היסמין 10, עדנים",
+    "city": "השרון",
+    "distanceKm": 5.8,
+    "craneUnloadMin": 18,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מושב עדנים, כביש פנימי צר, פריקה על הדשא/חצר."
+  },
+  {
+    "customerName": "אלנבי על הים",
+    "customerNumber": "501009",
+    "address": "שמוליק סגל 4, תל אביב",
+    "city": "תל אביב",
+    "distanceKm": 22,
+    "craneUnloadMin": 20,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "מתחם צפון ת\"א, פריקה מהירה."
+  },
+  {
+    "customerName": "גל בן דוד",
+    "customerNumber": "603275",
+    "address": "נטף 14, רמת השרון",
+    "city": "מרכז",
+    "distanceKm": 12.5,
+    "craneUnloadMin": 28,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "נווה מגן רמה\"ש, פריקת מנוף לגובה."
+  },
+  {
+    "customerName": "נ.ע. גרין פרויקטים בע\"מ",
+    "customerNumber": "614063",
+    "address": "הטווס 3, הוד השרון",
+    "city": "השרון",
+    "distanceKm": 2.4,
+    "craneUnloadMin": 18,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "אזור תעשייה נווה נאמן, פריקה מרווחת."
+  },
+  {
+    "customerName": "קובי פרופילים ונגישות בע\"מ",
+    "customerNumber": "619043",
+    "address": "מתן",
+    "city": "השרון",
+    "distanceKm": 12.5,
+    "craneUnloadMin": 25,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "יישוב מתן, אתר פיתוח נגיש."
+  },
+  {
+    "customerName": "אורן ישראלי",
+    "customerNumber": "632097",
+    "address": "המייסדים 17, רמות השבים",
+    "city": "השרון",
+    "distanceKm": 2.2,
+    "craneUnloadMin": 17,
+    "flatbedUnloadMin": 14,
+    "ituranNotes": "מאומת איתוראן: מנוף 17 דק' | איסוזו 14 דק'"
+  },
+  {
+    "customerName": "נישה אדריכלות נוף",
+    "customerNumber": "614149",
+    "address": "ישעיהו 8, הוד השרון",
+    "city": "השרון",
+    "distanceKm": 2.9,
+    "craneUnloadMin": 22,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "רחוב שקט, פריקה חלקה על המדרכה."
+  },
+  {
+    "customerName": "ד.ניב / ספריה בית ברל",
+    "customerNumber": "602860",
+    "address": "מכללת בית ברל 1, בית ברל",
+    "city": "השרון",
+    "distanceKm": 11.5,
+    "craneUnloadMin": 9,
+    "flatbedUnloadMin": 10,
+    "ituranNotes": "מאומת איתוראן: מנוף 9 דק' | איסוזו 10 דק'"
+  },
+  {
+    "customerName": "זבולון-עדירן / הופמן",
+    "customerNumber": "607145",
+    "address": "החורש 21, כפר שמריהו",
+    "city": "מרכז",
+    "distanceKm": 17.5,
+    "craneUnloadMin": 31,
+    "flatbedUnloadMin": 14,
+    "ituranNotes": "מאומת איתוראן: מנוף 31 דק' | איסוזו 14 דק' וילה וגישה רחבה"
+  },
+  {
+    "customerName": "מנחם מוסקביץ",
+    "customerNumber": "632255",
+    "address": "הכוהנים 13, הוד השרון",
+    "city": "השרון",
+    "distanceKm": 2.1,
+    "craneUnloadMin": 14,
+    "flatbedUnloadMin": 7,
+    "ituranNotes": "מאומת איתוראן: מנוף 14 דק' | איסוזו 7 דק'"
+  },
+  {
+    "customerName": "אסף אמיתי",
+    "customerNumber": "632254",
+    "address": "הנדיב 51, הרצליה פיתוח",
+    "city": "מרכז",
+    "distanceKm": 11.2,
+    "craneUnloadMin": 20,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "הרצליה פיתוח, גישה נוחה, הובלה לפריקה ידנית או מנוף קל."
+  },
+  {
+    "customerName": "פנינית ומור בר",
+    "customerNumber": "602870",
+    "address": "איגוז 9, בני ציון",
+    "city": "השרון",
+    "distanceKm": 13.8,
+    "craneUnloadMin": 53,
+    "flatbedUnloadMin": 20,
+    "ituranNotes": "מאומת איתוראן: מנוף 53 דק' | איסוזו 20 דק'"
+  },
+  {
+    "customerName": "משפחה בן ארצי",
+    "customerNumber": "601955",
+    "address": "האלה 8, הרצליה",
+    "city": "מרכז",
+    "distanceKm": 9.8,
+    "craneUnloadMin": 22,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "איש קשר רודי. פריקה זהירה בשטח החניה."
+  },
+  {
+    "customerName": "משפחה חדד",
+    "customerNumber": "601956",
+    "address": "וינגייט 27, הרצליה",
+    "city": "מרכז",
+    "distanceKm": 10.5,
+    "craneUnloadMin": 26,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "איש קשר עבד/גל. אתר שיפוצים, פריקה מול הכניסה."
+  },
+  {
+    "customerName": "חדד / אתר בני דרור",
+    "customerNumber": "601957",
+    "address": "בני דרור",
+    "city": "השרון",
+    "distanceKm": 18.2,
+    "craneUnloadMin": 25,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "איש קשר עודד. מושב בני דרור, פריקה פתוחה."
+  },
+  {
+    "customerName": "חמודי שלד בע\"מ",
+    "customerNumber": "40",
+    "address": "ויצמן 11",
+    "city": "כפר סבא",
+    "distanceKm": 10,
+    "craneUnloadMin": 28,
+    "flatbedUnloadMin": 15,
+    "ituranNotes": "אתר שלד פעיל, פריקה מול ויצמן 11, גישה נוחה למנוף מרצדס (מק\"ט מנוף תקני 18055)"
+  }
+]

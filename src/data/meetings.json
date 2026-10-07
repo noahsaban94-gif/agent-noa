@@ -1,0 +1,44 @@
+{
+  "pending": [
+    {
+      "id": "meet-1791272784374",
+      "requesterName": "נועה",
+      "phone": "נשלח ללא מספר נייד",
+      "chatFrom": "140901368230048@lid",
+      "rawText": "יכולה לפתוח לו task? במועד הפגישה?",
+      "meetingTimeText": "מחר (יום רביעי, 7.10) בשעה 09:00",
+      "targetDateIso": "2026-10-07T06:00:00.000Z",
+      "createdAt": "2026-10-06T07:46:24.374Z"
+    }
+  ],
+  "scheduled": [
+    {
+      "id": "sched-1791267175327",
+      "requesterName": "נועה",
+      "phone": "נשלח ללא מספר נייד",
+      "chatFrom": "140901368230048@lid",
+      "meetingTimeText": "מחר (יום רביעי, 7.10) בשעה 10:00",
+      "targetDateIso": "2026-10-07T07:00:00.000Z",
+      "reminderSent": false,
+      "confirmedAt": "2026-10-06T06:12:55.327Z"
+    },
+    {
+      "id": "sched-1791272729542",
+      "requesterName": "נועה",
+      "phone": "נשלח ללא מספר נייד",
+      "chatFrom": "140901368230048@lid",
+      "meetingTimeText": "מחר (יום רביעי, 7.10) בשעה 10:00",
+      "targetDateIso": "2026-10-07T07:00:00.000Z",
+      "reminderSent": false,
+      "confirmedAt": "2026-10-06T07:45:29.542Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": "k-20",
+      "text": "יש לנו פגישה ב9 בבוקר היום",
+      "timestamp": "2026-10-07T02:08:48.725Z",
+      "author": "ראמי"
+    }
+  ]
+}
