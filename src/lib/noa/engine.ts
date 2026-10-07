@@ -104,7 +104,7 @@ export function extractAddress(text: string | null | undefined): string | null {
     return "עוגב 15, קרני שומרון";
   }
 
-  let cleanAddrText = clean
+  const cleanAddrText = clean
     .replace(
       /^(?:\d+:\s*)?(?:נא\s+(?:לשלוח|להוביל|לספק)\s*(?:ל|ב)?|לשלוח\s*(?:ל|ב)?|להוביל\s*(?:ל|ב)?|צריכים\s*(?:ל|ב)?|דחוף\s*|בדחיפות\s*|הזמנה\s*(?:ל|ב)?|בוקר\s*טוב\s*|צהריים\s*טובים\s*|ערב\s*טוב\s*|לאתר\s*(?:ב|ב-)?)+/i,
       "",
@@ -112,10 +112,10 @@ export function extractAddress(text: string | null | undefined): string | null {
     .trim();
 
   const m = cleanAddrText.match(
-    /([א-ת"'.\-]+(?:\s+[א-ת"'.\-]+)*)\s+(\d+)\b(?!\s*(?:שק|שקים|בלה|בלות|מלט|חול|טיט|חמרה|סומסום|לוח|חבילה))(?:\s+(?:ב|ב-|עיר:?\s*)?([א-ת"'.\-]+(?:\s+[א-ת"'.\-]+)*))?/,
+    /([-א-ת"'.]+(?:\s+[-א-ת"'.]+)*)\s+(\d+)\b(?!\s*(?:שק|שקים|בלה|בלות|מלט|חול|טיט|חמרה|סומסום|לוח|חבילה))(?:\s+(?:ב|ב-|עיר:?\s*)?([-א-ת"'.]+(?:\s+[-א-ת"'.]+)*))?/,
   );
   if (m) {
-    let street = m[1].replace(/^[בל](?=[א-ת])/, "").trim();
+    const street = m[1].replace(/^[בל](?=[א-ת])/, "").trim();
     const blacklist = ["מחר", "אתמול", "היום", "שעה", "בשעה", "בבוקר", "בערב", "בצהריים", "דקות", "שעות", "פגישה", "למחר"];
     if (blacklist.some((b) => street.includes(b))) return null;
     const num = m[2];

@@ -1,0 +1,8 @@
+{
+  "name": "נועה · מרכז הסידור",
+  "description": "מרכז הפיקוד של נועה לסידור ח. סבן חומרי בניין",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
